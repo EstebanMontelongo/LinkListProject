@@ -4,4 +4,12 @@
 
 # What I Learned
 
-> An understanding of the complexities of implamenting a correclty working link list w/ useful functions
+> Correclty implamenting a working link list w/ useful functions
+
+> Advantages/Disadvantages of linklists
+
+> Time Complexities of each function
+
+> Debugging! It was a mess but now I learned the hard way.
+
+
