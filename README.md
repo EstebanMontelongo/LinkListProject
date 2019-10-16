@@ -21,4 +21,6 @@
 
 > Optimizing sorting algorithm used, slow.
 
+> Add template functionality
+
 > Fixing code (removing unecessary code, fixing hacky code, removing redundent code, space/time complexity optimization)
